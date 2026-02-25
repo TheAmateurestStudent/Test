@@ -1,3 +1,19 @@
+body {
+    background-color: black;
+    font-family: elephant, arial, calibri;
+}
+h1 {
+    color: #FFFF00;
+}
+h2{
+    color: #663300
+}
+p {
+    color: #FFFFCC;
+}
+ul {
+    color: #FFFFCC;
+}
 img {
-    width: 150px
+    width: 150px;
 }
