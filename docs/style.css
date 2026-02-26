@@ -1,19 +1,39 @@
 body {
-    background-color: black;
-    font-family: elephant, arial, calibri;
+    background-color: #FFFFCC;
+    margin: 100px
 }
 h1 {
-    color: #FFFF00;
+   text-align: center;
+   color: #663300;
+   font-family: elephant, arial, sans-serif;
 }
-h2{
-    color: #663300
+h2 {
+    text-align: center;
+    color: #CC9900;
+    font-family: elephant, sans-serif;
+}
+h3 {
+    font-family: elephant, sans-serif;
 }
 p {
-    color: #FFFFCC;
+    font-family: times-new-roman, serif;
 }
-ul {
-    color: #FFFFCC;
+img.clothed {
+    width: 200px;
 }
-img {
-    width: 150px;
+img.risque {
+    width: 400px;
+    text-align: center;
+}
+table {
+    background-color: gray;
+}
+div {
+    text-align: center;
+}
+span.y {
+    color: yellow;
+}
+span.p {
+    color: purple;
 }
